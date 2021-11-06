@@ -1,2 +1,2 @@
-# face-recognition-brain
+# facerecognitionbrain
 ZTM Course Project
