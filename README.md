@@ -1,2 +1,0 @@
-# facerecognitionbrain
-ZTM Course Project
